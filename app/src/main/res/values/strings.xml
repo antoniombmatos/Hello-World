@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">HelloWorld</string>
-    <string name="Message">Hello World!/n/nThis is my first program</string>
+    <string name="Message">Hello World!\n\nThis is my first program</string>
 </resources>
